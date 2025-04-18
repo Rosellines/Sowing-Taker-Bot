@@ -28,7 +28,7 @@ An automated farming bot designed to interact with the Taker Sowing Protocol. Th
 
 ```bash
 git clone https://github.com/Rosellines/Sowing-Taker-Bot.git
-cd Sowing-Taker-Auto-Bot
+cd Sowing-Taker-Bot
 ```
 
 2. Install dependencies:
