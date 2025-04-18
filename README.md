@@ -4,7 +4,7 @@ An automated farming bot designed to interact with the Taker Sowing Protocol. Th
 
 ## Register
 
-- Link : [https://sowing.taker.xyz/?start=TJMKGV08]
+- Link : https://sowing.taker.xyz/?start=TJMKGV08
 
 ## Features
 
@@ -27,7 +27,7 @@ An automated farming bot designed to interact with the Taker Sowing Protocol. Th
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/Rosellines/Sowing-Taker-Bot.git]
+git clone https://github.com/Rosellines/Sowing-Taker-Bot.git
 cd Sowing-Taker-Auto-Bot
 ```
 
